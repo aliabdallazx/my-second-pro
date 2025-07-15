@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>4G – Sudan Info Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>4G</h1>
+    <p>Your Complete Guide to Sudan</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#geography">Geography & Climate</a></li>
+      <li><a href="#history">History & Heritage</a></li>
+      <li><a href="#people">Population & Society</a></li>
+      <li><a href="#economy">Economy & Resources</a></li>
+      <li><a href="#conflict">Conflict & Humanitarian Crisis</a></li>
+      <li><a href="#culture">Culture & Landmarks</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="geography">
+      <h2>🌍 Geography & Climate</h2>
+      <p>Area: ~1.84 million km²; 3rd largest in Africa. Northern desert, central plains, southern savannah, and an 853 km Red Sea coastline :contentReference[oaicite:1]{index=1}.</p>
+      <p>Climate varies from hyper-arid desert in the north to tropical wet-dry in the south. Temperatures often exceed 43 °C in summer :contentReference[oaicite:2]{index=2}.</p>
+      <p>Khartoum sits at the Blue & White Nile confluence—cornerstone for irrigation, travel, and agriculture :contentReference[oaicite:3]{index=3}.</p>
+    </section>
+
+    <section id="history">
+      <h2>🏛️ History & Heritage</h2>
+      <p>Ancient Nubia & Kingdom of Kush built 200+ pyramids (more than Egypt). Meroë is a UNESCO World Heritage site :contentReference[oaicite:4]{index=4}.</p>
+      <p>Modern era: ruled by Ottomans, Anglo-Egyptian co-rule, independence in 1956. Experienced coups, two civil wars, and South Sudan secession in 2011 :contentReference[oaicite:5]{index=5}.</p>
+    </section>
+
+    <section id="people">
+      <h2>👥 Population & Society</h2>
+      <p>Population: ~49–52 million (2025). Urbanization: ~33–36% urban; Khartoum metro hosts ~6–7 million :contentReference[oaicite:6]{index=6}.</p>
+      <p>Ethnic diversity: 500+ groups—majority Arab (~70%), plus Beja, Nuba, Fur, Nubians, Dinka, Nuer, Masalit :contentReference[oaicite:7]{index=7}. Official languages: Arabic, English.</p>
+      <p>Religion: Predominantly Sunni Muslim; minority Christian and traditional beliefs in south/mountains :contentReference[oaicite:8]{index=8}.</p>
+    </section>
+
+    <section id="economy">
+      <h2>💰 Economy & Resources</h2>
+      <p>Agriculture employs 80% of workforce: sorghum, millet, wheat, sesame, gum arabic; livestock (camels, cattle, goats) is vital :contentReference[oaicite:9]{index=9}.</p>
+      <p>Exports: gold (~80 t in 2024, ~$6 bn)—supports both wartime factions :contentReference[oaicite:10]{index=10}. Also gum arabic, oil reserves, minerals.</p>
+      <p>Economic collapse: GDP shrank ~40% (2023) with further decline in 2024. Inflation high, unemployment ~20%, much aid-dependent :contentReference[oaicite:11]{index=11}.</p>
+    </section>
+
+    <section id="conflict">
+      <h2>🚨 Conflict & Humanitarian Crisis</h2>
+      <p>Civil war since April 2023 between Sudanese Armed Forces (SAF) and RSF. Over 40k–150k killed; 12–13 million displaced or refugees :contentReference[oaicite:12]{index=12}.</p>
+      <p>Widespread atrocities: RSF drone strikes on hospitals (e.g. El Fasher hospital killed 70 in Jan 2025) :contentReference[oaicite:13]{index=13}.</p>
+      <p>Health & Nutrition: ~60k cholera cases, 1.6k+ deaths between Aug 2024–May 2025; 70% hospitals inactive; malnutrition spikes :contentReference[oaicite:14]{index=14}.</p>
+      <p>Child malnutrition up 46% in Darfur; ICC confirms war crimes; UN labels largest displacement crisis :contentReference[oaicite:15]{index=15}.</p>
+      <ul>
+        <li>El-Obeid, North Kordofan → shelling, 4+ civilians killed; 700 households displaced (July 4–9, 2025) :contentReference[oaicite:16]{index=16}.</li>
+        <li>WFP warns: refugee food aid might end in 2 months due to funding gap :contentReference[oaicite:17]{index=17}.</li>
+      </ul>
+    </section>
+
+    <section id="culture">
+      <h2>🎭 Culture & Landmarks</h2>
+      <p>Rich mix of Arab & African culture: music (oud, drums), dance, oral traditions.</p>
+      <p>Landmarks: Nubian pyramids (Meroë), Jebel Barkal, Red Sea coral reefs, Port Sudan—a key seaport and refuge city :contentReference[oaicite:18]{index=18}.</p>
+      <p>Cuisine: Kisra (flatbread), ful medames, camel meat, river fish; vibrant markets connect food, community.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 4G App. All rights reserved.</p>
+  </footer>
+</body>
+</html>
